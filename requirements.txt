@@ -1,0 +1,7 @@
+streamlit
+pandas
+langchain
+langchain-community
+langchain-groq
+matplotlib
+pysqlite3-binary  # Required if the cloud environment has an older SQLite version
